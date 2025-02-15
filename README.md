@@ -82,7 +82,7 @@ Random Forest Regression
 
 ### Offer Letter
 
-The offer letter for the **Codsoft Internship** can be found in the repository. It outlines the details and terms of the internship. You can view and download it [here](./Offer_Letter_Codsoft.pdf).
+The offer letter for the **Codsoft Internship** can be found in the repository. It outlines the details and terms of the internship. You can view and download it [here](./Offer%20Letter%20Codsoft.pdf).
 
 ---
 
